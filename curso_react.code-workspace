@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "projects/01-twitter-follow-card"
+		},
+		{
+			"path": "projects/02-tic-tac-toe"
+		},
+		{
+			"path": "projects/03.0-mouse-follower"
+		},
+		{
+			"path": "projects/03.5-react-prueba-tecnica"
+		},
+		{
+			"path": "projects/05-react-buscador-peliculas"
+		},
+		{
+			"path": "projects/06-carrito-estado-global"
+		}
+	],
+	"settings": {}
+}
